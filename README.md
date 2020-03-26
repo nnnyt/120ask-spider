@@ -1,6 +1,5 @@
 # 120ask-spider
-Web信息处理与应用 开放实验  
-宁雨亭 PB17111577   
+Web信息处理与应用 开放实验   
 爬取[快速问医生](https://www.120ask.com) - [检查库](https://tag.120ask.com/jiancha/)   
 
 
